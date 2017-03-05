@@ -9,8 +9,17 @@ Installing the following items prior to the workshop will help get things moving
     brew install go
     ```
 
+1. Go Plugin for IntelliJ <https://github.com/go-lang-plugin-org> (Optional): Syntax highlighting and language insights
+    1. Preferences -> Plugins -> Go
+    1. Restart IntelliJ
+
 1. `direnv` <https://direnv.net/> (Optional): Handy tool for setting environment variable per directory.
     ```
-    brew instal direnv
+    brew install direnv
     ```
     Note `direnv` simply sets environment variables defined in `./.envrc` when entering a directory (or its children directories) and unsets the environment variables when `cd`'ing out. Look for `./.envrc` files and set the variables manually as an alternative.
+
+## Introduction
+
+1. [Hello World!](./hello-world/README.md)
+2. [What is Go](./what-is-go/README.md)
