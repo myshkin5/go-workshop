@@ -18,4 +18,4 @@
 
 Developers spend the first week or so very interested in the language, then the next six months hating it. If they stick with it that long, they learn to love the language again.
 
-Prev [Hello World!](../hello-world/README.md) | Next [Packages/Imports/Accessibility](../packages/README.md)
+Prev [Hello World!](../hello-world/README.md) | Next [Variables](../variables/README.md)

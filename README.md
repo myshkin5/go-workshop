@@ -23,4 +23,5 @@ Installing the following items prior to the workshop will help get things moving
 
 1. [Hello World!](./hello-world/README.md)
 2. [What is Go](./what-is-go/README.md)
-3. [Packages/Imports/Accessibility](./packages/README.md)
+3. [Variables](./variables/README.md)
+4. [Packages/Imports/Accessibility](./packages/README.md)
